@@ -12,3 +12,7 @@ What I did in this project:
 - Testing the models
 
 I did this project while taking the Udacity Deep Learning nanodegree
+
+# Acknoweldgement
+The dataset I used is from the Families In The Wild (FIW) Database.
+Link to the [Database](https://web.northeastern.edu/smilelab/fiw/index.html)
